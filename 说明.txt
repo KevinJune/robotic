@@ -1,0 +1,3 @@
+打开TwoRobotModel文件和main文件
+先点击运行TwoRobotModel文件
+然后到main文件中注释设断点的地方设置断点（不设也行），然后运行
